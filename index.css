@@ -1,0 +1,21 @@
+.body { 
+    font-family: sans-serif; 
+}
+
+.h1#welcome {
+    text-align:  center; 
+    margin-top:  50px; 
+}
+
+.div#aboutme {
+    display:       flex;
+    flex-direction: column;
+    align-items:   center;
+    gap:           10px;
+}
+
+.img#portrait {
+    width:         150px;
+    height:        150px; 
+    border-radius: 50%;
+}
